@@ -1,0 +1,23 @@
+{
+  "name": "fras",
+  "version": "1.0.0",
+  "description": "x",
+  "main": "app.js",
+  "scripts": {
+    "test": "check",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sagextitan/ttlproject_group5.git"
+  },
+  "keywords": [
+    "k"
+  ],
+  "author": "akshat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sagextitan/ttlproject_group5/issues"
+  },
+  "homepage": "https://github.com/sagextitan/ttlproject_group5#readme"
+}
