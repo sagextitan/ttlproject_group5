@@ -3,7 +3,7 @@ import os
 import check_camera
 import Capture_Image
 import Train_Image
-from Recognize import recognize_attendance
+import Recognize
 
 app = Flask(__name__)
 
